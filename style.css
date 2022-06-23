@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px; 
+}
+
+.box {
+    width: 460px;
+    border: 2px solid black;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-image: url("https://img.freepik.com/free-vector/flat-geometric-background_23-2148957201.jpg?t=st=1655957035~exp=1655957635~hmac=dfb1a8fb63eaebd57786d50ed5d4769005e28574735fc0a6c4a5c62f1af7691a&w=740");
+    background-repeat: no-repeat;
+   
+}
+
+.text-space {
+    text-align: center;
+}
+
+.text-style {
+    font-size: 40px;
+}
+
+.box-left {
+    border: 2px solid black;
+    width: 90px;
+    height: 80px;
+    font-size: 70px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.text-label {
+    margin-left: 40px;
+    width: 333px;
+}
+
+.lol {
+
+    display: flex;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+
+.box-S {
+    background-color: #e6c72e;
+    transform: rotate(-20deg);
+}
+
+.box-M {
+    background-color: #bf2178;
+}
+
+.box-A {
+    background-color: #73b83b;
+    transform: rotate(-8deg);
+}
+
+.box-R {
+    background-color: #1271a1;
+    transform: rotate(10deg);
+}
+
+.box-T {
+    background-color: #583987;
+}
